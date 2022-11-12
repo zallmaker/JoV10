@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'Zall Mods Wa'
 global.autorecording = false //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autoketik = true //status auto mengetik (auto typing)
+global.available = true //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
-global.author = 'WhatsApp Bot'
+global.owner = ['6283195366404','6283195366404','6283195366404']
+global.premium = ['6283195366404']
+global.packname = 'Zall Mods Wa'
+global.author = 'Zall Mods Wa'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -38,7 +38,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: '𝑆𝑎𝑏𝑎𝑟 𝑊𝑖𝑏𝑢...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
