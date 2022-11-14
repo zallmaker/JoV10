@@ -24,8 +24,8 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`, 
-"thumbnailUrl": 'https://telegra.ph/file/313cd5e07455d25a8db88.jpg'
+"caption": `𝐋𝐀𝐋𝐀 𝐁𝐎𝐓𝐙`, 
+"thumbnailUrl": 'https://telegra.ph/file/1641c0dfd4df00105a3c2.jpg'
 } 
 }
 }
@@ -76,7 +76,7 @@ loadDatabase()
     const jobotz = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['THE JO BOT V10', 'Safari','1.0.0'],
+        browser: ['LALA BOT MD', 'Safari','1.0.0'],
         auth: state
     })
 

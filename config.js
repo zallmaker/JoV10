@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'Zall Mods Wa'
+global.ownername = 'Lala Botz'
 global.autorecording = false //status auto merekam ( auto record )
-global.autoketik = true //status auto mengetik (auto typing)
-global.available = true //status online (online)
+global.autoketik = false //status auto mengetik (auto typing)
+global.available = false //status online (online)
 // Other
-global.owner = ['6283195366404','6283195366404','6283195366404']
-global.premium = ['6283195366404']
-global.packname = 'Zall Mods Wa'
-global.author = 'Zall Mods Wa'
+global.owner = ['85257429208','85257429208','85257429208']
+global.premium = ['85257429208']
+global.packname = 'Lala Botz'
+global.author = 'Lala Botz'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -38,7 +38,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '𝑆𝑎𝑏𝑎𝑟 𝑊𝑖𝑏𝑢...',
+    wait: 'Process...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
